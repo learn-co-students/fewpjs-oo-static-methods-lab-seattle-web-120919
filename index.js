@@ -30,3 +30,14 @@ class Formatter {
     return result.join(' ');
   }
 }
+
+  // result.push(Formatter.capitalize(stringArray[0]))
+  // for (let i = 1; i < stringArray.length; i++) {
+  //   if (!exceptions.includes(stringArray[i])) {
+  //     console.log(stringArray[i])
+  //     result.push(Formatter.capitalize(stringArray[i]))
+  //   } else {
+  //     result.push(stringArray[i])
+  //   }
+  // }
+  // return result.join(' ')
